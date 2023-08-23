@@ -1,0 +1,38 @@
+.login{
+    margin-top: 120px;
+}
+.login-form{
+    width: 30%;
+    margin: 0 auto;
+}
+.google-icon{
+    font-size:28px;
+    color:	#c5c557;
+    margin-left: 5px;
+}
+.btn-google{
+  display: flex;
+  justify-content: center;
+  }
+  .btn-github{
+    display: inline;
+  }
+@media only screen and (min-width: 280px) and (max-width:1280px) {
+
+    .login-form{
+        width: 100%;
+     
+    }
+    .btn-google{
+      display: flex;
+      justify-content: center;
+    }
+    .btn-github{
+      display: flex;
+      justify-content: center;
+      margin-left:-40px;
+      margin-top: 20px;
+    }
+   
+   
+    }

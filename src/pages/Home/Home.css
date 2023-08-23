@@ -1,0 +1,13 @@
+.our-courses-title{
+    font-weight: 800;
+    color:#382929;
+    font-size:35px;
+    margin-top: 90px;
+    margin-bottom: 60px;
+    padding-left:20px;
+}
+.seeAllCourses {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}

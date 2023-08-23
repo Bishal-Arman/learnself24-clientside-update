@@ -1,0 +1,22 @@
+.detail-course{
+    margin-top: 130px;
+}
+.course-img{
+    text-align: center;
+}
+.course-img img{
+    width: 100%;
+   
+}
+.short-details{
+    text-align: justify;
+}
+.pdf-button{
+    color: red;
+    cursor: pointer;
+    margin-left: 15px;
+}
+.detailCourse p{
+    padding: 0px 0px;
+    
+}

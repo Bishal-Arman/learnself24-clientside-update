@@ -1,0 +1,10 @@
+.courses-container{
+    margin-top: 140px;
+}
+.courses-container h3{
+    font-weight: 800;
+    color:#4964b6;
+    font-size:35px;
+    margin-bottom: 50px;
+    padding-left:20px;
+}

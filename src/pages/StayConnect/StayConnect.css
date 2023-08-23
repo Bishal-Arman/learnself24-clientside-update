@@ -1,0 +1,32 @@
+.stay-connect img{
+    width:450px;
+}
+.stay-connect-container{
+ margin-top:100px;
+}
+@media only screen and (min-width: 280px) and (max-width:1280px) {
+
+    .stay-connect img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+    .stay-connect-container{
+        margin-top: 90px;
+       }
+       .stay-connect-description h4 {
+        text-align: center;
+       
+       }
+       .enrollnow {
+        text-align: center;
+       
+       }
+       .btn-login{
+        text-align: center;
+      
+       }
+      
+   
+    }
