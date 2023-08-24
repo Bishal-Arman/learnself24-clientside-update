@@ -11,7 +11,7 @@ const About = () => {
   return (
     <>
       <div className="detail-about">
-        <h3>-About us</h3>
+        <h3>-About us-</h3>
         <p>
           LearnSelf24 is an online based education platform and service provider
           in Bangladesh,LearnSelf24 is working for the people of all ages to
