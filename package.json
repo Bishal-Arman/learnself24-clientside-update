@@ -8,7 +8,7 @@
         "react-dom": "^16.8.0",
         "@restart/ui": "^1.6.3",
         "@testing-library/jest-dom": "^5.16.5",
-        "@testing-library/react": "13.3.0",
+        "@testing-library/react": "^12.0.0",
         "@testing-library/user-event": "^13.5.0",
         "aos": "^2.3.4",
         "beta": "^0.0.1",
