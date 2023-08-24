@@ -9,7 +9,7 @@ const AboutUs = () => {
     <div>
       <Container fluid>
         <Row>
-          <h3 className="text-center  aboutus-title">About Us</h3>
+          <h3 className="text-center  aboutus-title">-About Us-</h3>
           <Col lg={7} md={12} xs={12} className="my-auto about-description">
             <p>
               LearnSelf24 is an online based education platform and service
