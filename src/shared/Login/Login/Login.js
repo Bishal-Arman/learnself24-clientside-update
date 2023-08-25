@@ -1,7 +1,7 @@
 import React from "react";
-import { Button, Container } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import "./Login.css";
-import { FaGoogle } from "react-icons/fa";
+// import { FaGoogle } from "react-icons/fa";
 import { useContext } from "react";
 import { AuthContext } from "../../../contexts/AuthProvider/AuthProvider";
 import { GoogleAuthProvider } from "firebase/auth";
@@ -100,12 +100,6 @@ const Login = () => {
           <button type="submit" className="btn btn-primary mt-3">
             Login
           </button>{" "}
-          <br /> <br />
-          <div className="btn-google">
-            <Button variant="outline-primary" onClick={handleGoogle}>
-              Sign-in-With<FaGoogle className="google-icon"></FaGoogle>
-            </Button>
-          </div>
         </form>
       </Container>
     </div>
